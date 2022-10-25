@@ -4,11 +4,11 @@ import os
 import uvicorn
 from esmerald.conf import settings
 
-from .main import app as app  # no qa
+from .main import app as app  # noqa
 
 if __name__ == "__main__":
     """
-    Sets a default `FLUIDAPI_SETTINGS_MODULE` settings configuration and loads accordingly.
+    Uses the`ESMERALD_SETTINGS_MODULE` settings configuration and loads accordingly.
     """
     port = getattr(settings, "port", 8001)
     uvicorn.run(
