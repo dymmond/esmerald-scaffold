@@ -38,10 +38,7 @@ This serves as an example of a possible scaffold that can be used by you to star
 
 ## What does it bring
 
-1. `pyproject.toml`
-2. A `serve.py` file that is used solely for development purposes.
-3. Examples of configurations cross environment
-4. An app `accounts` with some model examples using Tortoise ORM.
+A ready to use simple Esmerald application with some examples how to organise a project.
 
 ## Requirements
 
