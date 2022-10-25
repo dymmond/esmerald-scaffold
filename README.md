@@ -31,7 +31,7 @@
 
 ---
 
-## Esmerald cookiecutter
+## Esmerald scaffold
 
 This serves as an example of a possible scaffold that can be used by you to start your
 [Esmerald](https://esmerald.dymmond.com) projects.
