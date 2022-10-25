@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-![Tests](https://github.com/tarsil/esmerald-scaffold/actions/workflows/main.yml/badge.svg)
 
 <a href="https://github.com/dymmond/esmerald/workflows/Test%20Suite/badge.svg?event=push&branch=main" target="_blank">
     <img src="https://github.com/dymmond/esmerald/workflows/Test%20Suite/badge.svg?event=push&branch=main" alt="Test Suite">
