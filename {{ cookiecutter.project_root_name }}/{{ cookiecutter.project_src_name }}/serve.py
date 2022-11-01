@@ -13,7 +13,6 @@ if __name__ == "__main__":
     port = getattr(settings, "port", 8001)
     uvicorn.run(
         "main:app",
-        debug=os.getenv("DEBUG", settings.debug),
         port=os.getenv("PORT", port),
         host=os.getenv("HOST", "localhost"),
         reload=True,
