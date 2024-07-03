@@ -31,6 +31,14 @@
 
 ---
 
+## Note
+
+This repository was created before the [Esmerald directived](https://www.esmerald.dev/directives/) were created and added
+to its core. 
+
+Now that is in place for also quite some time, this repository no longer needs updating and you can also check an [example](https://www.esmerald.dev/examples/)
+using the directives about how to generate a similar project to this one.
+
 ## Esmerald scaffold
 
 This serves as an example of a possible scaffold that can be used by you to start your
