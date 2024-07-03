@@ -1,5 +1,13 @@
 # Esmerald
 
+## Note
+
+This repository was created before the [Esmerald directived](https://www.esmerald.dev/directives/) were created and added
+to its core. 
+
+Now that is in place for also quite some time, this repository no longer needs updating and you can also check an [example](https://www.esmerald.dev/examples/)
+using the directives about how to generate a similar project to this one.
+
 <p align="center">
   <a href="https://esmerald.dev"><img src="https://res.cloudinary.com/dymmond/image/upload/v1673619342/esmerald/img/logo-gr_z1ot8o.png" alt='Esmerald'></a>
 </p>
@@ -30,14 +38,6 @@
 **Source Code**: [https://github.com/dymmond/esmerald](https://github.com/dymmond/esmerald)
 
 ---
-
-## Note
-
-This repository was created before the [Esmerald directived](https://www.esmerald.dev/directives/) were created and added
-to its core. 
-
-Now that is in place for also quite some time, this repository no longer needs updating and you can also check an [example](https://www.esmerald.dev/examples/)
-using the directives about how to generate a similar project to this one.
 
 ## Esmerald scaffold
 
